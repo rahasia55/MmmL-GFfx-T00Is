@@ -1,0 +1,60 @@
+[
+  {
+  "visibility": "INVISIBLE",
+  "min_version": "1.1",
+  "app_name": "ML Tools GFX",
+  "dialog_title": "App under maintenance. Meanwhile, please use Skin Toolkit ML. Click update",
+  "dialog_message": "aplikasi dalam perbaikan, sementara gunakan aplikasi Skin Toolkit ML, klik update",
+  "button_update": "Update",
+  "button_cancel": "Cancel",
+  "cancelable": true,
+  "info": "tes",
+  "link_update": "https://play.google.com/store/apps/details?id=com.sopinje.tct",
+"tutor_main": "https://youtube.com/shorts/WkPNDI-vJBM?si=1AHvZpmBCjn0fcXY",
+  "tutor_file": "https://youtube.com/shorts/WkPNDI-vJBM?si=1AHvZpmBCjn0fcXY",
+  "tutor_shizuku": "https://youtu.be/SaUy6j5hJzk?si=yvFmihajARbYDFcf",
+  "tutor_iadb": "https://youtu.be/UlnaI_dyOrQ?si=ZtJPQqkaS8ZDgqBH",
+    "youtube": "https://youtube.com/playlist?list=PLGCMrKypV0ZecM96XjRyb3rJ3L41eW3v6&si=MIO3HILzz_HQ5Tc7",
+  "tiktok": "https://www.tiktok.com/@skin.tools.ml?_r=1&_t=ZS-97ijKCADkTR",
+  "whatsapp": "https://chat.whatsapp.com/Eg0qUbrlzMUEAlF85vS7q9?s=cl&p=a&ilr=1&amv=0",
+  "telegram": "https://youtube.com/playlist?list=PLGCMrKypV0ZfRXWwDppohOkNCEtFjRBuJ&si=0xbmM5eQ8yuPHr6F",
+  "privacy_policy": "https://gs-tools.blogspot.com/p/privacy-policy_0267292499.html?m=1",
+     
+     "partner_apps_visible": true,
+    "partner_apps": [
+      {
+        "app_name": "IQ Tools",
+        "icon_url": "https://raw.githubusercontent.com/rahasia55/New-Default-skin/refs/heads/main/uploads/1000879913.png",
+        "link_update": "https://play.google.com/store/apps/details?id=iQ.Tools.MLInjector.SkinToolML"
+      },
+      {
+        "app_name": "ML GFX Tool",
+        "icon_url": "https://raw.githubusercontent.com/rahasia55/New-Default-skin/refs/heads/main/uploads/1000889827-picsay.png",
+        "link_update": "https://play.google.com/store/apps/details?id=com.ML.GFX.Tool.UnlcokFPS.SkinToolMLInjector"
+      },
+      {
+        "app_name": "Skin Toolkit",
+        "icon_url": "https://play-lh.googleusercontent.com/fyuoL-N88hNz1L_AGvxZs-C4QKHgPb2CqrlQqWmTwCSsex-NvD_Pe_m80JocyoEMf709DVt0dq4ZesnoSp6HDTY=s128-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=skin.tools.ml.injector.config.skin.ml.tool.gfx"
+      },
+      {
+        "app_name": "Ryumoto GFX",
+        "icon_url": "https://raw.githubusercontent.com/rahasia55/New-Default-skin/refs/heads/main/uploads/unnamed%20(3)-picsay.png",
+        "link_update": "https://play.google.com/store/apps/details?id=ag5.skintoolsmlvinztoolsmodskininjectorbangbang"
+      },
+      {
+        "app_name": "Prime Tools ML",
+        "icon_url": "https://lh3.googleusercontent.com/KspNcdRuGD1wlnmslsc3WEvtQja_dS3pEs8TNjYC9wvXR8Glg-svwKcqyTEYZPsqiQjjeyoBtiNrQOwehCiY7t3oyOPgLj0UsLZKmw=rw",
+        "link_update": "https://play.google.com/store/apps/details?id=com.prime.tools.ml"
+      },
+      {
+        "app_name": "ML Tools Hub",
+        "icon_url": "https://play-lh.googleusercontent.com/nX3PjrY7iiaukxVbXsgYemt51B9zYWdU0nNP-s7pHElS4eNUXrbTs5ILMK6JdETAR7wcPuXxp6uIr1M0kbhMyA=s128-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=com.ml.toolshub"
+      }
+      
+      
+    ]
+    
+  }
+]
