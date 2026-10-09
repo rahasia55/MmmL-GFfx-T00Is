@@ -1,8 +1,8 @@
 [
   {
   "visibility": "VISIBLE",
-    "upgrade_skin_enabled": false,
-  "min_version": "1.6",
+    "upgrade_skin_enabled": true,
+  "min_version": "1.7",
   "app_name": "ML Tools GFX",
   "dialog_title": "latest version available, update now",
   "dialog_message": "Versi terbaru tersedia, update sekarang",
